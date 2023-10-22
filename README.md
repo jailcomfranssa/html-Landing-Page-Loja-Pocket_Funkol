@@ -1,6 +1,8 @@
 # Loja Pocket Funkol
 Landing Page de uma loja Pocket Funko de produtos Star Wars.
 
+Loja: <a href="https://jailcomfranssa.github.io/html-Landing-Page-Loja-Pocket_Funkol/#home">loja Pocket Funko<a/>
+
 <div style="display: inline_block" align="center">
   <img src="https://github.com/jailcomfranssa/html-Landing-Page-Loja-Pocket_Funkol/blob/main/img/Pocket_Funko.png" width="500" />
 </div>
